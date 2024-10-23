@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yichenholly.github.io/sitemap.xml
+Sitemap: https://hollypuppy.github.io/sitemap.xml
